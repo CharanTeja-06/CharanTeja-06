@@ -32,8 +32,8 @@ I believe in:
 ## 📂 Projects
 
 🔹 **Agrivision – SIH Project**  
-A team project developed for Smart India Hackathon focusing on solving real-world agricultural problems using technology.  
-*(Work in progress – learning through building)*
+A beginner-level team project created to explore how technology can be applied to agricultural problem statements.  
+This project helped me understand **project structuring, teamwork, and applying basic programming concepts**.
 
 🔹 More projects coming soon as I continue learning and experimenting.
 
@@ -60,7 +60,7 @@ A team project developed for Smart India Hackathon focusing on solving real-worl
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/CharanTeja-06  
-- LinkedIn: *(add when ready)*  
+- LinkedIn: https://www.linkedin.com/in/charan-teja-raipally-5a8477327 
 
 ---
 
