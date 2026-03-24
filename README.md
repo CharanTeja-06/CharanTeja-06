@@ -1,84 +1,65 @@
-# Hi there 👋 I'm Charan Teja
+# ⚡ Hello, I'm Charan Teja! 
 
-🎓 Computer Science Engineering student  
-💻 Learning Python, Machine Learning & core CS  
-🚀 Building projects step by step and improving every day
-
----
-
-## 👨‍💻 About Me
-
-I'm a CSE student with a strong interest in **Machine Learning, Data Science, and problem solving**.  
-Currently, I focus on building **small but meaningful projects** to strengthen my fundamentals rather than rushing advanced topics.
-
-I believe in:
-- learning concepts properly  
-- writing clean, understandable code  
-- improving consistently through practice  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=CSE+Student+%40+B.Tech;Machine+Learning+Enthusiast;Problem+Solver+%7C+C%2B%2B+%26+Python;Building+Scalable+Solutions" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠 Skills & Tools (Actively Learning)
+### 🚀 About Me
+I am a **Computer Science Engineering** student driven by the logic of code and the potential of AI. My approach to software development is rooted in **Mastering the Core**—I believe in understanding the "why" behind every algorithm before scaling to advanced frameworks.
 
-- **Languages:** Python, C, C++  
-- **CS Fundamentals:** Basics of DSA, OOP concepts  
-- **Data & ML:** Python for data handling, beginner ML concepts  
-- **Tools:** Git, GitHub, VS Code  
-
-> 📌 I prefer mastering basics before moving to advanced frameworks.
-
----
-
-## 📂 Projects
-
-🔹 **Agrivision – SIH Project**  
-A beginner-level team project created to explore how technology can be applied to agricultural problem statements.  
-This project helped me understand **project structuring, teamwork, and applying basic programming concepts**.
-
-🔹 More projects coming soon as I continue learning and experimenting.
+- 🎓 **Current Pursuit:** B.Tech in Computer Science (Junior Year)
+- 🔭 **Focus:** Strengthening DSA fundamentals and building ML-driven recommendation engines.
+- 🌱 **Learning:** Deepening my knowledge in **Database Management Systems** and **Computer Networks**.
+- 💬 **Ask me about:** Python, C++, and how technology can solve agricultural challenges.
 
 ---
 
-## 📈 What I'm Currently Working On
+### 🛠 Tech Stack & Tools
 
-- Improving Python problem-solving skills  
-- Strengthening DSA fundamentals  
-- Learning Machine Learning concepts with practical implementation  
-- Preparing for hackathons and internships  
-
----
-
-## 🎯 Goals (Short Term)
-
-- Build 5–6 well-documented projects  
-- Gain strong command over Python & ML basics  
-- Contribute consistently on GitHub  
-- Secure a good internship opportunity  
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
+| **Data & AI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Fundamentals** | Data Structures (DSA), OOPs, DBMS, Operating Systems |
 
 ---
 
-## 📫 Connect With Me
+### 📂 Featured Projects
 
-- GitHub: https://github.com/CharanTeja-06  
-- LinkedIn: https://www.linkedin.com/in/charan-teja-raipally-5a8477327 
+#### 🌾 **Agrivision – SIH National Level Project**
+> *An AI-assisted platform designed to bridge the gap between technology and traditional farming.*
+- **Outcome:** Developed a foundational understanding of project lifecycles and collaborative coding.
+- **Tech:** Python, ML Fundamentals.
+
+#### 🤖 **Recommendation Engine Lab**
+- **Crop Recommendation:** A model predicting optimal crops based on soil composition and weather patterns.
+- **Movie Recommendation:** Implementing collaborative filtering to personalize user experiences.
 
 ---
 
-⭐ Thanks for visiting my profile!  
-I'm always learning — one commit at a time.
+### 📊 GitHub Insights
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=CharanTeja-06&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharanTeja-06&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+---
 
-<!--
-**CharanTeja-06/CharanTeja-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤝 Let's Connect
+I’m always looking to collaborate on innovative projects or discuss the latest in AI/ML.
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://linkedin.com/in/charan-teja-raipally-5a8477327" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:charanteja.work@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>"Small daily improvements are the key to staggering long-term results."</i>
+</p>
